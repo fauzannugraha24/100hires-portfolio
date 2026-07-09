@@ -26,3 +26,31 @@
 ## What I Learned
 
 This exercise helped me learn Git, GitHub, Cursor, and how to troubleshoot software setup by researching available documentation.
+---
+
+# Phase 2 – AI-powered SEO Content Production Research
+
+## Objective
+
+This project explores how leading SEO professionals use artificial intelligence to improve keyword research, content planning, content creation, optimization, and search performance.
+
+## Repository Structure
+
+```
+research/
+├── experts/
+├── linkedin-posts/
+├── youtube-transcripts/
+├── other/
+└── sources.md
+```
+
+## Progress
+
+- [x] Repository setup
+- [x] Research topic selected
+- [x] Research structure created
+- [ ] Collect expert profiles
+- [ ] Collect LinkedIn posts
+- [ ] Collect YouTube transcripts
+- [ ] Finalize research
